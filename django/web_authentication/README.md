@@ -1,5 +1,5 @@
 # web_authentication
-Simple page in django. You can login and logout. < br/>
+Simple page in django. You can login and logout. <br/>
 Login: admin <br/>
 Password: 1234
 
