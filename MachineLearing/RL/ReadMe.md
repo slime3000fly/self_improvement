@@ -1,4 +1,4 @@
-This is a directory with my project made to learn reinforcement learning. 
+This is a directory with my project made to learn reinforcement learning. <br/>
 I used gymnasium library to learn my AI to play retor games.
 
 <img width="119" alt="Screenshot 2023-01-05 at 12 58 09" src="https://user-images.githubusercontent.com/94618871/210777178-9006be33-fd97-4293-8ab5-ed6849f3846e.png">
